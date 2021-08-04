@@ -1,5 +1,10 @@
-# RedStore-App
+# Shoe Store App
+ 
+[live Site](a-red-store-app.netlify.app)
 
-This is an E-commerce website build using HTML5, CSS3 and JavaScript.
+![Red Store App](/preview.png)
 
-[Here is a link to Website](https://redstore-app-43b75.web.app/)
+This is the code repo of Red Store App. There I used:
+  * [HTML5](https://www.w3schools.com/html)
+  * [CSS3](https://www.w3schools.com/css)
+  * [JavaScript](https://www.w3schools.com/js)
