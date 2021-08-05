@@ -1,6 +1,6 @@
 # Shoe Store App
  
-[live Site](a-red-store-app.netlify.app)
+[live Site](https://a-red-store-app.netlify.app)
 
 ![Red Store App](/preview.png)
 
